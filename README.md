@@ -1,12 +1,25 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/dossantosle/Gif/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif" style="width: 300px; height: 150px;">
+<table>
+  <tr>
+    <td style="text-align: center; border: none;">
+      <img src="https://raw.githubusercontent.com/dossantosle/Gif/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="text-align: center; border: none;">
+      <img src="https://raw.githubusercontent.com/dossantosle/Gif/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+    <td style="text-align: center; border: none;">
+      <img src="https://raw.githubusercontent.com/dossantosle/Gif/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif" style="width: 100%; max-width: 300px; height: auto;">
+    </td>
+  </tr>
+</table>
+
+
   <div>
     <h1>Sobre mim</h1>
     - 💻 <strong>Desenvolvedora Web</strong><br>
     - 🎓 <strong>Bacharelado Interdisciplinar em Ciências e Tecnologias </strong><br>
     - 🚀 <strong>Sempre em busca da inovação</strong>
   </div>
-</div>
+
 
 ## 🚀 Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
