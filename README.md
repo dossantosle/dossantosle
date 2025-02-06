@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](URL_DA_IMAGEM)
+![Banner](https://github.com/dossantosle/Gif/blob/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif)
 
 # Olá, eu sou [Seu Nome]! 👋
 
