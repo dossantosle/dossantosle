@@ -1,17 +1,3 @@
-<table>
-  <tr>
-    <td style="text-align: center; border: none;">
-      <img src="https://raw.githubusercontent.com/dossantosle/Gif/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif" style="width: 100%; max-width: 300px; height: auto;">
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://raw.githubusercontent.com/dossantosle/Gif/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif" style="width: 100%; max-width: 300px; height: auto;">
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://raw.githubusercontent.com/dossantosle/Gif/91a63e00667de34d5e30a9cf346b9af4d3f78599/gifgithub.gif" style="width: 100%; max-width: 300px; height: auto;">
-    </td>
-  </tr>
-</table>
-
 
   <div>
     <h1>Sobre mim</h1>
